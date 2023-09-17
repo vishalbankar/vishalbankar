@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Abinito ETL Tool Developer**
 
-- 🌱 currently learning **Machine Learning,Deep Learning**
+- 🌱 currently learning **Data Analytics ,Machine Learning,Deep Learning**
 
 - 📫 How to reach me **vishalbankar251@gmail.com**
 
