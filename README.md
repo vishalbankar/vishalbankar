@@ -7,7 +7,7 @@
 
 - 🌱 currently learning **Data Analytics ,Machine Learning,Deep Learning**
 
-- 📫 How to reach me **vishalbankar251@gmail.com**
+- 📫 How to reach me **bankar.vu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
